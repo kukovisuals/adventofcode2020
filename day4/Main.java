@@ -40,7 +40,7 @@ public class Main {
   			}
   			System.out.println(o+":"+hm.get(o));
   		}
-  			System.out.println( (rows.length)-output); 
+  		System.out.println( (rows.length)-output); 
   	}
 	}	
 	// Reading a text file as a string
